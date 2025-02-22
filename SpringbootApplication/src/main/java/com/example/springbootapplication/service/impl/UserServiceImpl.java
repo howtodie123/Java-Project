@@ -1,4 +1,4 @@
-package com.example.springbootapplication.service.Impl;
+package com.example.springbootapplication.service.impl;
 
 import com.example.springbootapplication.service.UserService;
 import com.example.springbootapplication.entity.User;

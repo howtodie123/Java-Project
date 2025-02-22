@@ -1,4 +1,4 @@
-package repository;
+package com.example.springbootapplication.repository;
 
 import com.example.springbootapplication.entity.Role;
 import com.example.springbootapplication.entity.ERole;
